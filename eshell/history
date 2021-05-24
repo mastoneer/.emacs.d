@@ -1,0 +1,61 @@
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+ls -al
+rm .emacs\~
+cd ..
+cd ..
+rm .emacs
+mv init.el ../init.el
+ls
+rm init.el\~ 
+ls
+exit
+ranger
+ls
+exit
+ls
+ls 
+cd 
+ls 
+cd .emacs.d/
+ls 
+ls 
+cd fonts/
+ls 
+ls 
+cd ..
+ls 
+cd ..
+emacs .gitconfig 
+exit
+git clone https://github.com/jtbm37/all-the-icons-dired.git
+git clone https://github.com/jtbm37/all-the-icons-dired.git
+cd all-the-icons-dired/
+ls 
+pwd
+exit
+cd $home
+ls 
+cd .emacs.d/lisp/
+ls 
+cd ..
+git clone https://github.com/TheBB/spaceline.git
+cd ..
+git init
+ls 
+eshell-parse-command "echo hello"
+which ls 
+date
+top-level 
+info
+whoami 
+python.exe 
+python3.10.exe 
+Opening input file: Invalid argument, c:/Users/masto/AppData/Local/Microsoft/WindowsApps/python.vc-direxe
+vc-dir
+echo (version)
+git clone --depth=1 -b master https://github.com/manateelazycat/emacs-application-framework.git ~/.emacs.d/site-lisp/emacs-application-framework/

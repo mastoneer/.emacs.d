@@ -1,0 +1,33 @@
+;;; -*- coding: utf-8 -*-
+(("c:/Users/masto/.emacs.d/type-break" . 27)
+ ("c:/Users/masto/OneDrive/文档/PowerShell/Microsoft.PowerShell_profile.ps1" . 128)
+ ("c:/Users/masto/.emacs.d/lisp/init-package.el" . 8857)
+ ("c:/Users/masto/.emacs.d/elpa/twittering-mode-20181121.1402/twittering-mode-autoloads.el" . 558)
+ ("c:/Users/masto/.emacs.d/custom.el" . 892)
+ ("c:/Users/masto/.emacs.d/lisp/main.cpp" . 73)
+ ("c:/Users/masto/.emacs.d/elpa/web-mode-20210131.1758/web-mode-autoloads.el" . 481)
+ ("c:/Users/masto/.emacs.d/elpa/yasnippet-snippets-20210408.1234/yasnippet-snippets-autoloads.el" . 727)
+ ("c:/Users/masto/.emacs.d/elpa/yasnippet-20200604.246/yasnippet-autoloads.el" . 2114)
+ ("c:/Users/masto/.emacs.d/lisp/init-config.el" . 2749)
+ ("c:/Users/masto/.emacs.d/init.el" . 529)
+ ("c:/Users/masto/.emacs.d/elpa/flyspell-correct-ivy-20210124.1143/flyspell-correct-ivy-autoloads.el" . 733)
+ ("c:/Users/masto/.emacs.d/elpa/flyspell-correct-20210124.1143/flyspell-correct-autoloads.el" . 3448)
+ ("c:/Users/masto/.emacs.d/lisp/init-ranger.el" . 376)
+ ("c:/Users/masto/.emacs.d/config/cfg-dired.el" . 970)
+ ("c:/Users/masto/.emacs.d/recentf" . 1539)
+ ("c:/Users/masto/.emacs.d/config/" . 35)
+ ("c:/Users/masto/.emacs.d/lisp/"
+  (dired-filename . "c:/Users/masto/.emacs.d/lisp/all-the-icons-dired.el"))
+ ("c:/Users/masto/.emacs.d/"
+  (dired-filename . "c:/Users/masto/.emacs.d/config"))
+ ("c:/Users/masto/"
+  (dired-filename . "c:/Users/masto/.emacs.d"))
+ ("c:/Users/masto/.emacs.d/spaceline/"
+  (dired-filename . "c:/Users/masto/.emacs.d/spaceline/.git"))
+ ("c:/Users/masto/.emacs.d/fonts/"
+  (dired-filename . "c:/Users/masto/.emacs.d/fonts/all-the-icons.ttf"))
+ ("c:/Users/masto/.emacs.d/url/" . 48)
+ ("c:/Users/masto/.emacs.d/eshell/"
+  (dired-filename . "c:/Users/masto/.emacs.d/eshell/history"))
+ ("c:/Users/masto/.emacs.d/elpa/"
+  (dired-filename . "c:/Users/masto/.emacs.d/elpa/ace-window-20200606.1259")))

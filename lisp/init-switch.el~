@@ -1,0 +1,20 @@
+
+(evil-mode 1)
+
+(ivy-posframe-mode 1)
+
+(setq mode-line-format '("%e" (:eval 
+  (concat
+    (custom-modeline-modified)
+    (custom-modeline-window-number)
+    (custom-modeline-mode-icon)
+    (custom-modeline-icon-vc)
+    (custom-modeline-region-info)
+    (custom-modeline-flycheck-status)
+    (custom-modeline-suntime)
+    (custom-modeline-weather)
+    (custom-modeline-time)))))
+
+
+(provide 'init-switch)
+

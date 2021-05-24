@@ -1,0 +1,13 @@
+(ranger-override-dired-mode t)
+(setq helm-descbinds-window-style 'same-window)
+(setq ranger-cleanup-on-disable t)
+(setq ranger-show-hidden t)
+(setq ranger-modify-header t)
+(setq ranger-hide-cursor nil)
+(setq ranger-footer-delay 0.2)
+(setq ranger-preview-delay 0.040)
+(setq ranger-preview-file t)
+(setq ranger-show-literal nil)
+(setq ranger-dont-show-binary t)
+
+(provide 'cfg-ranger)
