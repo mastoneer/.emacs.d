@@ -67,4 +67,32 @@
     )  
 )  
 
+;; evil-mode
+
+(require 'evil)
+
+;; eaf-config
+(require 'eaf)
+(require 'eaf-all-the-icons)
+
+;; translaten
+(require 'google-translate)
+(require 'google-translate-smooth-ui)
+;;需要将谷歌翻译地址的.com修改成.cn,否则在国内无法进行访问
+;; (setq google-translate-base-url
+;;      "http://translate.google.cn/translate_a/single")
+;; (setq google-translate-listen-url
+;;      "http://translate.google.cn/translate_tts")
+;; (setq google-translate--tkk-url
+;;      "http://translate.google.cn")
+;; ;
+					;配置默认语言
+(setq google-translate-default-source-language "en")
+(setq google-translate-default-target-language "zh-CN")
+(setq-default google-translate-enable-ido-completion t)
+;; 配置快捷键
+(global-set-key "\C-ct" 'google-translate-at-point)
+(global-set-key "\C-cT" 'google-translate-query-translate)
+(global-set-key (kbd "\C-cq") 'google-translate-smooth-translate)
+
 (provide 'init-config)

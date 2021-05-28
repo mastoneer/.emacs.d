@@ -59,3 +59,34 @@ Opening input file: Invalid argument, c:/Users/masto/AppData/Local/Microsoft/Win
 vc-dir
 echo (version)
 git clone --depth=1 -b master https://github.com/manateelazycat/emacs-application-framework.git ~/.emacs.d/site-lisp/emacs-application-framework/
+git status
+git add *
+git status
+d:
+cd 
+ls 
+cd d://github/
+ls 
+git clone https://github.com/slime/slime.git
+cd slime/
+ls 
+d:/github/
+ls 
+git clone git://git.code.sf.net/p/sbcl/sbcl
+Cloning into 'sbcl'...
+cd sbcl/
+ls 
+sbcl-pwd.sh 
+sbcl
+contrib                         make-target-1.sh      G
+cd ..
+git clone https://github.com/lujun9972/emacs-document.git
+git clone https://github.com/lujun9972/emacs-document.git
+git clone https://github.com/lujun9972/emacs-document.git
+cd emacs-document/
+git status
+git check out
+git checkout
+ls 
+pwd
+cd 

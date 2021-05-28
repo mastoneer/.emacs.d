@@ -1,8 +1,23 @@
-;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("ranger-r"
+(("ranger-m"
+ (filename . "~/OneDrive/文档/orgfile/")
+ (front-context-string . "-rw-rw-rw-      ")
+ (rear-context-string . "1:26 复习计划.org\n  ")
+ (position . 92))
+("ranger-"
+ (filename . "~/OneDrive/文档/orgfile/")
+ (front-context-string . "org\n  -rw-rw-rw-")
+ (rear-context-string . "5-25 01:26 复习计划.")
+ (position . 86))
+("ranger-k"
+ (filename . "~/OneDrive/文档/orgfile/")
+ (front-context-string)
+ (rear-context-string . "ilable 49.9 GiB\n")
+ (position . 49))
+("ranger-r"
  (filename . "~/")
  (front-context-string . ".emacs.d/\n  drwx")
  (rear-context-string . " 4k 05-24 00:16 ")

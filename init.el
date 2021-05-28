@@ -18,7 +18,7 @@
 (require 'init-switch)
 ;(require 'init-cfgpkg)
 (require 'init-config)
-(require 'evil)
+(require 'init-lang)
 
 
 
